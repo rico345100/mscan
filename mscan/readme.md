@@ -22,9 +22,8 @@ A. Free to use. Thanks.
        ...
    })
    ```
-
-Returning value is Object that has key as file name and detail informations in property like this:
-    ```javascript
+3. Returning value is Object that has key as file name and detail informations in property like this:
+    ```json
     {
         'exam.js': {
             stats: { ... },
