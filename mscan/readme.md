@@ -23,4 +23,21 @@ A. Free to use. Thanks.
    })
    ```
 
+Returning value is Object that has key as file name and detail informations in property like this:
+    ```javascript
+    {
+        'exam.js': {
+            stats: { ... },
+            mime: 'application/javascript',
+            isDirectory: false
+        },
+        'index.js': { ... },
+        'node_modules': {
+            stats: { ... },
+            mime: 'application/octet-stream',
+            isDirectory: true
+        }
+    }
+    ```
+
 Please don't hesitate to ask some issues on github issues page. Or you can send me a mail: rico345100@gmail.com

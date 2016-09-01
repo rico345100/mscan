@@ -1,6 +1,6 @@
 {
   "name": "mscan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mscan is super light weight file scanner module for get specific file informations",
   "main": "min.js",
   "scripts": {
