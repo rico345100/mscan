@@ -1,0 +1,25 @@
+{
+  "name": "mscan",
+  "version": "1.0.0",
+  "description": "mscan is super light weight file scanner module for get specific file informations",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rico345100/mscan"
+  },
+  "keywords": [
+    "mscan",
+    "filesystem",
+    "scan"
+  ],
+  "author": "modernator",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}

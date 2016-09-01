@@ -1,0 +1,20 @@
+{
+  "name": "mscan",
+  "version": "1.0.0",
+  "description": "mscan is super light weight file scanner module for get specific file informations",
+  "main": "min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mscan",
+    "filesystem",
+    "scan"
+  ],
+  "author": "modernator",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^1.3.4",
+    "mkdirp": "^0.5.1"
+  }
+}
